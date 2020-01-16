@@ -1,6 +1,6 @@
 import { NativeModules } from 'react-native';
 
-const { RNReactNativePing } = NativeModules;
+const { RNReactNativeTraceRoute } = NativeModules;
 class Traceroute {
   // /**
   //  *
