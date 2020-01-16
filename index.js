@@ -33,4 +33,4 @@ class Traceroute {
   }
 }
 
-export default Ping;
+export default Traceroute;
