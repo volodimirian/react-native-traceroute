@@ -1,7 +1,7 @@
 {
   "name": "react-native-traceroute",
   "version": "0.0.1",
-  "author": "Vladimir Smirnov",
+  "author": "Vladimir Smirnov <vladimirsmirnov7@gmail.com>",
   "license": "MIT",
   "description": "Making tracerouting to the source",
   "repository": {
