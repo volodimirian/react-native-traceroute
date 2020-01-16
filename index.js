@@ -29,7 +29,7 @@ class Traceroute {
    * @memberof Traceroute
    */
   static async start(hostName) {
-    return 'some result';
+    return 'some result' + hostName;
   }
 }
 
